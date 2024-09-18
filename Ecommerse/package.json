@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mongoose": "^8.6.3"
+  },
+  "name": "ecommerse",
+  "version": "1.0.0",
+  "main": "category.models.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
